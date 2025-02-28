@@ -1,9 +1,0 @@
-{
-  "usuarios": 
-  [
-      { "nome": "Roberto", "username": "admin", "password": "123" },
-      { "nome": "Gabriel", "username": "user", "password": "password" },
-      { "nome": "Leonor", "username": "usuario1", "password": "senha" },
-      { "nome": "Antônio", "username": "usuario2", "password": "54321" }
-  ]
-}
