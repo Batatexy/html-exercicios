@@ -1,4 +1,0 @@
-document.querySelector("").addEventListener("click", () =>
-{
-
-});
